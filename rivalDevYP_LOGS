@@ -1,0 +1,33 @@
+# rivalDevYP rom log
+
+
+build_release_num	date		task						file													
+																
+
+1.0.0			3/15/19		added custom information to about phone		~/lineageos/packages/apps/Settings/res/xml/device_info_settings.xml 					
+																					
+1.1.0			3/15/19		changed boot animation (FAILED)			~/lineageos/vendor/lineage/bootanimation/desc.txt 
+											&& ~/lineageos/vendor/lineage/bootanimation/bootanimation.zip 
+											&& ~/lineageos/vendor/lineage/bootanimation/Android.mk 						
+
+1.2.0			3/15/19		attempted to change system fonts (FAILED)	~/lineageos/frameworks/base/data/fonts/fonts.mk 
+											&& ~/lineageos/frameworks/base/data/fonts/fonts.xml 
+											&& ~/lineageos/frameworks/base/data/fonts/Android.mk 						
+
+1.2.1			3/16/19		forced nav bar (FAILED)				~/lineageos/packages/apps/LineageParts/src/org/lineageos/lineageparts/input/ButtonSettings.java	
+
+1.2.1			3/16/19		change boot animation				~/lineageos/vendor/lineage/bootanimation/bootanimation.tar
+
+1.2.1			3/16/19		change fonts system wide 			~/lineage/external/skia/resources/android_fonts/*/fonts.xml
+
+1.2.1			3/16/19		added more wallpapers (FAILED)		 	~/lineageos/packages/apps/WallpaperPicker/res_1080p/drawable-nodpi/
+
+1.2.2			3/17/19		change lineageos on initial pref scrn
+
+1.2.2			3/17/19		changed boot animation background to white	~/lineageos/vendor/lineage/bootanimation/desc.txt 
+
+[note]			3/16/19		[suggestion] pick a name for this ROM	
+
+[note]			3/16/19		remember to remove forced nav bar when possible
+
+														
