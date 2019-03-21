@@ -27,6 +27,10 @@ build_release_num	date		task						file
 1.2.2			3/17/19		changed boot animation background to white	~/lineageos/vendor/lineage/bootanimation/desc.txt 
 
 [note]			3/16/19		[suggestion] pick a name for this ROM	
+						[option1] rivalD OS
+						[option2] rivalDev-OS
+						[option2] rivalDOS
+						[option3] rivalOS [tagPossible]
 
 [note]			3/16/19		remember to remove forced nav bar when possible
 
