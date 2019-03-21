@@ -1,4 +1,4 @@
-# rivalDevYP ROM
+# rivalOS
 
 #### Preface
 This is Yathavan Parameshwaran's repository for a new custom ROM based off LineageOS. All files in here are **not allowed** to be copied, cloned, or otherwise downloaded without the explicit permission of Yathavan Parameshwaran.
