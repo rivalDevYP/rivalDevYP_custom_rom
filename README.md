@@ -8,7 +8,7 @@ This project was created by cloning the official **LineageOS repository** using 
 <br /><br />
 ## ROM Information
 
-**This rom is currently under active development, thus no builds will be provided. The ROM will (hopefully, NO PROMISES) complete initial development stage in Q4 2019. And builds will be available for download (as .zip files) on here. The logs will be progressively updated following addition of new feature(s), or removal of detected bug(s)**
+*This rom is currently under active development, thus no builds will be provided. The ROM will (hopefully, **NO PROMISES**) complete initial development stage in Q4 2019. And builds will be available for download (as .zip files) on here. The logs will be progressively updated following addition of new feature(s), or removal of detected bug(s)*
 
 **Supported Devices (as of March, 2019)**
 * Motorola Moto Z2 Play (albus)
