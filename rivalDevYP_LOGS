@@ -30,7 +30,7 @@ build_release_num	date		task						file
 						[option1] rivalD OS
 						[option2] rivalDev-OS
 						[option2] rivalDOS
-						[option3] rivalOS [tagPossible]
+						[option3] rivalOS [possible_choice]
 
 [note]			3/16/19		remember to remove forced nav bar when possible
 
